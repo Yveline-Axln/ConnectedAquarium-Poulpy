@@ -1,3 +1,4 @@
+//Include the labraries needed
 #include <module.h>
 #include <pi.h>
 #include <pump.h>
@@ -8,8 +9,6 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
-
-using namespace std;
 
 //declaration of constants and global variables
 //define sensors pin
